@@ -1,11 +1,5 @@
 Este es el archivo Beedril
 Hice un cambio
-<<<<<<< HEAD
 B
 B
 B
-=======
-A
-A
-A
->>>>>>> aed6968db7b75e3df6433f00f14a666905dc91c9
